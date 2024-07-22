@@ -4,7 +4,6 @@
 
 This project demonstrates the use of a Function Transformer in a machine learning pipeline. The goal is to apply custom transformations to the dataset stored in `dataset1.xlsx` and use these transformations to improve model performance.
 
-
 ## Introduction
 
 The Function Transformer is a tool in scikit-learn that allows the application of custom functions for data transformation. This project focuses on:
